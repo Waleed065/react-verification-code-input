@@ -29,8 +29,8 @@
 
 .react-code-input > input:focus {
   outline: none;
-  border: 1px solid #006fff;
-  caret-color: #006fff;
+  border: 1px solid #c4a459;
+  caret-color: #c4a459;
 }
 
 .react-code-input > input:focus + input {
