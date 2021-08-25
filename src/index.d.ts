@@ -7,8 +7,8 @@ interface ReactCodeInputProps {
   fields?: number;
   loading?: boolean;
   title?: string;
-  fieldWidth?: any;
-  fieldHeight?: any;
+  fieldWidth?: string | number;
+  fieldHeight?: string | number;
   autoFocus?: boolean;
   className?: string;
   values?: string[];
